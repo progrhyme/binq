@@ -1,3 +1,6 @@
+[![release](https://badgen.net/github/release/progrhyme/binq)](https://github.com/progrhyme/binq/releases)
+[![go-test](https://github.com/progrhyme/binq/workflows/go-test/badge.svg)](https://github.com/progrhyme/binq/actions?query=workflow%3Ago-test)
+
 # binq
 
 Download items via HTTP and extract them when compressed.  
