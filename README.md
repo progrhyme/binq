@@ -45,7 +45,7 @@ rm $tmpfile
 Just run this:
 
 ```sh
-go get github.com/progrhyme/binq
+go get github.com/progrhyme/binq/cmd/binq
 ```
 
 # CLI Usage
