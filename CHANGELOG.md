@@ -2,7 +2,7 @@
 
 Feature / Change: ([#10](https://github.com/binqry/binq/pull/10))
 
-- - (client, CLI/install) Set default index server to https://binqry.github.io/index/
+- (client, CLI/install) Set default index server to https://binqry.github.io/index/
 
 Bug Fix: ([#10](https://github.com/binqry/binq/pull/10))
 
